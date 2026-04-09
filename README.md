@@ -22,5 +22,5 @@
 - REST APIs
 - TCP/IP
 
-[![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhinavPabbaraju&show_icons=true&theme=react)]
+[![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhinavPabbaraju&show_icons=true&theme=react)](https://github.com/AbhinavPabbaraju/github-readme-stats)
 
