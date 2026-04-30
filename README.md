@@ -10,7 +10,7 @@
 ####  Connect:
 
 - LinkedIn: https://www.linkedin.com/in/abhinav-pabbaraju/
-- Twitter: https://x.com/AbhinavP__ 
+- Twitter: https://x.com/AbhinavP__/ 
 - LeetCode: https://leetcode.com/u/AbhinavPabbaraju/  
 
 ---
