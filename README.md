@@ -6,7 +6,12 @@
 
 ##### I’m interested in understanding systems from first principles: how data flows, how performance bottlenecks arise, and how trade-offs shape scalable architectures.
 
-##### 📫 Connect with me - https://www.linkedin.com/in/abhinav-pabbaraju/
+
+####  Connect:
+
+- LinkedIn: https://www.linkedin.com/in/abhinav-pabbaraju/
+- Twitter: https://x.com/AbhinavP__ 
+- LeetCode: https://leetcode.com/u/AbhinavPabbaraju/  
 
 ---
 
