@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="218276(1).gif" width="60%" />
+  <img src="IMG_0233-ezgif.com-speed(1).gif" width="100%" />
 </p>
 
 <p align="center">
