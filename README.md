@@ -2,13 +2,15 @@
   <img src="218276(1).gif" width="60%" />
 </p>
 
-<h1 align="center">Hi, I'm Abhinav 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=10000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Abhinav+%F0%9F%91%8B" />
+</p>
 
-##### A 3rd Year CS Undergrad @ AIMSCS, University Of Hyderabad
+#### A 3rd Year CS Undergrad @ AIMSCS, University Of Hyderabad
 
-##### I focus on building a strong foundation in computer science — particularly in algorithms, systems, and how real-world software is designed and optimized.
+#### I focus on building a strong foundation in computer science — particularly in algorithms, systems, and how real-world software is designed and optimized.
 
-##### I’m interested in understanding systems from first principles: how data flows, how performance bottlenecks arise, and how trade-offs shape scalable architectures.
+#### I’m interested in understanding systems from first principles: how data flows, how performance bottlenecks arise, and how trade-offs shape scalable architectures.
 
 
 ####  Connect:
