@@ -1,4 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Abhinav%20Pabbaraju&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%2F%20CompSci%20Student&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?
+type=waving
+&height=200
+&color=timeGradient
+&text=Abhinav%20Pabbaraju
+&fontSize=48
+&fontColor=cdd6f4
+&animation=fadeIn
+&fontAlignY=35
+&desc=Software%20Engineer%20/%20CompSci%20Student
+&descSize=18
+&descAlignY=55"
+/>
 
 ## Hi, I'm Abhinav 👋
 
@@ -22,11 +34,12 @@
 
 
 ### 🛠️ Tools:
-- Linux (Shell Scripting and Kernel Management)
-- Git
-- Docker & Kubernetes
-- REST APIs
-- TCP/IP
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
 
 ### ⚙️ Core Concepts
 
