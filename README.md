@@ -1,6 +1,6 @@
 ### Hi, I'm Abhinav 👋
 
-##### A 2nd Year CS Undergrad @ AIMSCS, University Of Hyderabad
+##### A 3rd Year CS Undergrad @ AIMSCS, University Of Hyderabad
 
 ##### I focus on building a strong foundation in computer science — particularly in algorithms, systems, and how real-world software is designed and optimized.
 
