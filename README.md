@@ -1,4 +1,6 @@
-### Hi, I'm Abhinav 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Abhinav%20Pabbaraju&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%2F%20CompSci%20Student&descSize=18&descAlignY=55&textBg=false"/>
+
+## Hi, I'm Abhinav 👋
 
 ##### A 3rd Year CS Undergrad @ AIMSCS, University Of Hyderabad
 
@@ -29,11 +31,31 @@
 ### ⚙️ Core Concepts
 
 - Data Structures & Algorithms (graph algorithms, dynamic programming, greedy strategies)
-- Complexity Analysis (Big-O, amortized analysis, trade-off evaluation)
-- Discrete Mathematics (graph theory, combinatorics, basic probability)
-- Problem Solving & Algorithmic Thinking
 - Operating Systems (processes, threads, scheduling, memory management)
 - Computer Networks (TCP/IP, HTTP, latency vs throughput, connection lifecycle)
 - Database Systems (indexing, query optimization, transactions, isolation levels)
 - System Design Fundamentals (scalability, consistency models, caching, bottlenecks)
 - Abstraction & Software Design (modularity, separation of concerns, design patterns)
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/AbhinavPabbaraju">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbhinavPabbaraju&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="AbhinavPabbaraju's GitHub Stats" />
+  </a>
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=AbhinavPabbaraju&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="AbhinavPabbaraju's GitHub Streak" width="49%" />
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/AbhinavPabbaraju">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbhinavPabbaraju&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
