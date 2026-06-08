@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="218276.gif" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=18,20,24,30&text=Abhinav%20Pabbaraju&fontSize=50&fontColor=C0CAF5&animation=fadeIn&fontAlignY=38&desc=Compilers%20•%20Distributed%20Systems%20•%20Networking&descSize=18&descAlignY=58" />
 </p>
 
