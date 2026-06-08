@@ -1,16 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?
-type=waving
-&height=200
-&color=timeGradient
-&text=Abhinav%20Pabbaraju
-&fontSize=48
-&fontColor=cdd6f4
-&animation=fadeIn
-&fontAlignY=35
-&desc=Software%20Engineer%20/%20CompSci%20Student
-&descSize=18
-&descAlignY=55"
-/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=18,20,24,30&text=Abhinav%20Pabbaraju&fontSize=50&fontColor=C0CAF5&animation=fadeIn&fontAlignY=38&desc=Compilers%20•%20Distributed%20Systems%20•%20Networking&descSize=18&descAlignY=58" />
+</p>
 
 ## Hi, I'm Abhinav 👋
 
