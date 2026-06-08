@@ -37,22 +37,6 @@
 - System Design Fundamentals (scalability, consistency models, caching, bottlenecks)
 - Abstraction & Software Design (modularity, separation of concerns, design patterns)
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/AbhinavPabbaraju">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbhinavPabbaraju&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="AbhinavPabbaraju's GitHub Stats" />
-  </a>
-  <br><br>
-  <img src="https://streak-stats.demolab.com/?user=AbhinavPabbaraju&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="AbhinavPabbaraju's GitHub Streak" width="49%" />
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/AbhinavPabbaraju">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbhinavPabbaraju&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
