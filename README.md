@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=10000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Abhinav+%F0%9F%91%8B" />
 </p>
 
+---
+
 #### A 3rd Year CS Undergrad @ AIMSCS, University Of Hyderabad
 
 #### I focus on building a strong foundation in computer science — particularly in algorithms, systems, and how real-world software is designed and optimized.
@@ -41,6 +43,8 @@
 - Database Systems (indexing, query optimization, transactions, isolation levels)
 - System Design Fundamentals (scalability, consistency models, caching, bottlenecks)
 - Abstraction & Software Design (modularity, separation of concerns, design patterns)
+
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
